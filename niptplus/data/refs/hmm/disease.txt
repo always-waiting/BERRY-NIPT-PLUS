@@ -1,7 +1,3 @@
-#Disease	chr	Start	End	Type
-1p36_deletion_syndrome	1	0	10077413	loss
-2q33.1_deletion_syndrome	2	197400000	203300000	loss
-Prader-Willi/Angelman_syndrome	15	24818907	28426405	loss
-Cri-Du-Chat_syndrome	5	10001	12533304	loss
-Digeorge_syndrome	22	20679792	23122445	loss
-Langer-Giedion_syndrome	8	112100000	127300000	loss
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5bd08dabb12447f9e2947959b85536a674bbabcc3994556cfc55bf60a54392
+size 316

@@ -1,20 +1,3 @@
-chr	uniq	uniqGC	total	totalGC
-HPV	0	0	0	0
-HAV	0	0	0	0
-HBV	0	0	0	0
-HCV	4	11	4	11
-HEV	0	0	0	0
-HIV	0	0	0	0
-RTV	0	0	0	0
-SBV	2	35	2	35
-SEV	3	68	3	68
-STV	0	0	0	0
-SOV	0	0	0	0
-MEV	0	0	0	0
-RBV	0	0	0	0
-MUV	0	0	0	0
-MTV	0	0	0	0
-NMV	17	183	48	480
-PAV	0	0	0	0
-ATV	0	0	0	0
-MPV	1	1	1	1
+version https://git-lfs.github.com/spec/v1
+oid sha256:393bddc24ab37d3dec09337960af8c64bfaa6f5005d09049986de95707a951bb
+size 270
