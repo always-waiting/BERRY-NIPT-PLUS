@@ -1,0 +1,8 @@
+include README.rst
+include niptplus/data/input/151015_NS500132_0225_AHGT37BGXX/*
+include niptplus/data/refs/trim_data/*
+include niptplus/lib/*
+include niptplus/lib/R/*
+include niptplus/data/refs/pca_data/*
+include niptplus/data/refs/pca_data/refs/*
+include niptplus/data/refs/hmm/*
