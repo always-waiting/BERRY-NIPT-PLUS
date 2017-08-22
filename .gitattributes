@@ -1,0 +1,2 @@
+niptplus/data/input filter=lfs diff=lfs merge=lfs -text
+niptplus/data/refs filter=lfs diff=lfs merge=lfs -text
